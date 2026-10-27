@@ -26,6 +26,7 @@ My published articles, documentation samples, and product work.
 
 ## Documentation samples
 - [SOP: Generating the Weekly Sales Report](sop-samples/weekly-sales-report-sop.md) (fictional sample)
+- [API Quickstart: Open-Meteo Weather API](api-docs-samples/open-meteo-quickstart.md) (unofficial sample) 
 
 ## Certifications
 - XML for Beginners
