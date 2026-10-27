@@ -9,7 +9,10 @@ Riya's technical writing portfolio: articles, documentation, and product work.
 
 ## Product work
 - [Belong & Grow PRD](Belong%20and%20Grow%20PRD%20Final%20Version.pdf)
-  
+
+## Documentation samples
+- [SOP: Generating the Weekly Sales Report](sop-samples/weekly-sales-report-sop.md) (fictional sample)
+
 ## Certifications
 - XML for Beginners
 - Adobe Experience Manager
