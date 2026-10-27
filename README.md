@@ -8,7 +8,7 @@ Riya's technical writing portfolio: articles, documentation, and product work.
 - [Software Development Cost Forecasting](https://www.capitalnumbers.com/blog/software-development-cost-forecasting)
 
 ## Product work
-- Belong & Grow PRD (coming soon)
+- [Belong & Grow PRD](Belong%20and%20Grow%20PRD%20Final%20Version.docx)
 
 ## Certifications
 - XML for Beginners
